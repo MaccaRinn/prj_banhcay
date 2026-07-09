@@ -8,6 +8,7 @@ import org.example.prj_banhcay.DTO.response.CartItemResponse;
 import org.example.prj_banhcay.DTO.response.CartResponse;
 import org.example.prj_banhcay.model.Product;
 import org.example.prj_banhcay.repo.ProductRepo;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.math.BigDecimal;
@@ -19,6 +20,7 @@ import java.util.Map;
 @Service
 public class CartService {
 
+    @Autowired
     private  ProductRepo productRepo;
 
     private static final String CART = "cart";
@@ -42,6 +44,7 @@ public class CartService {
 
         Product product = productRepo.findById(request.getProductId())
                 .orElseThrow(() -> new RuntimeException("Product not found"));
+
 
         if (!Boolean.TRUE.equals(product.getActive())) {
             throw new RuntimeException("Product unavailable");

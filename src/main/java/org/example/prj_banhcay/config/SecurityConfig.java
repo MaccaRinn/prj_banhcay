@@ -79,7 +79,9 @@ public class SecurityConfig {
 
         config.setAllowedOrigins(List.of(
                 "http://14.225.253.172",
-                "http://localhost:5173"
+                "http://localhost:5173",
+                "http://localhost:3000",
+                "https://fe-nguvi.vercel.app"
         ));
 
         config.setAllowedMethods(List.of(

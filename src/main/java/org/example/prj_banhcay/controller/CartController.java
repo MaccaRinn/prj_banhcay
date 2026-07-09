@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/cart")
+@CrossOrigin(origins = "*", allowCredentials = "true")
 @RequiredArgsConstructor
 public class CartController {
     @Autowired
