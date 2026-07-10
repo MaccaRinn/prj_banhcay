@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/cart")
-@CrossOrigin(origins = "*", allowCredentials = "true")
+@CrossOrigin(origins = "https://fe-nguvi.vercel.app", allowCredentials = "true")
 @RequiredArgsConstructor
 public class CartController {
     @Autowired
