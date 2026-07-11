@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/ai")
-@CrossOrigin(origins = "https://fe-nguvi.vercel.app", allowCredentials = "true")
+@CrossOrigin(origins = "https://www.banhcaynguvi.com", allowCredentials = "true")
 public class AIController {
 
     @Autowired

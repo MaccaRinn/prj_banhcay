@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin(origins = "https://fe-nguvi.vercel.app", allowCredentials = "true")
+@CrossOrigin(origins = "https://www.banhcaynguvi.com", allowCredentials = "true")
 public class HomeController {
     @GetMapping("/")
     public String home() {
