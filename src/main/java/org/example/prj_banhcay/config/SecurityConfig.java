@@ -81,7 +81,8 @@ public class SecurityConfig {
                 "http://14.225.253.172",
                 "http://localhost:5173",
                 "http://localhost:3000",
-                "https://fe-nguvi.vercel.app"
+                "https://fe-nguvi.vercel.app",
+                "https://www.banhcaynguvi.com/"
         ));
 
         config.setAllowedMethods(List.of(
