@@ -43,7 +43,8 @@ public class GeminiService {
                   chatbot chỉ được xác nhận khi sản phẩm đã có quyết định công nhận chính thức, đồng thời giải thích rằng OCOP phản ánh chất lượng, 
                   tiêu chuẩn sản xuất, bao bì, câu chuyện sản phẩm và năng lực thương mại chứ không đồng nghĩa với việc sản phẩm hoàn toàn không có rủi ro, 
                   ngon hơn hay là một chứng nhận quốc tế.
-                - Câu trả lời không được kèm kí tự đặc biệt nào
+                - CHÚ Ý QUAN TRỌNG: Hãy trả lời dưới dạng văn bản thuần túy (Plain Text).
+                - TUYỆT ĐỐI KHÔNG được sử dụng định dạng Markdown, KHÔNG dùng các dấu ký tự như **, *, #, hoặc - trong câu trả lời.
                   
                 - Nếu người dùng hỏi ngoài phạm vi trên thì trả lời:
 
