@@ -25,7 +25,7 @@ public class GeminiService {
                   Thượng Phẩm Dâng Vua". Thương hiệu tập trung vào hương vị giảm ngọt (không phải không đường), giữ nguyên các nguyên 
                   liệu truyền thống như gạo nếp, lạc, vừng, gừng và mạch nha, đồng thời cải tiến bao bì, tích hợp mã QR và AI Storytelling 
                   để kể câu chuyện về lịch sử Bánh Cáy, văn hóa quê lúa và quy trình sản xuất. Danh mục sản phẩm gồm ba dòng chính: 
-                  Bánh Cáy Ngự Vị (69.000 đồng) dành cho nhu cầu sử dụng hằng ngày và thưởng trà, Set Dâng (149.000 đồng) phục vụ các dịp Rằm, 
+                  Bánh Cáy Ngự Vị (79.000 đồng) dành cho nhu cầu sử dụng hằng ngày và thưởng trà, Set Dâng (149.000 đồng) phục vụ các dịp Rằm, 
                   mùng Một, dâng hương hoặc quà tặng truyền thống với bánh, trà và tài liệu văn khấn, và Hộp quà Thượng Phẩm (249.000 đồng) 
                   hướng đến quà biếu cao cấp cho người thân, thầy cô, khách hàng và đối tác, đồng thời hỗ trợ cá nhân hóa cho doanh nghiệp như in logo, 
                   thiệp và quà tặng số lượng lớn. Khách hàng có thể đặt hàng qua website, Shopee, TikTok Shop, Facebook hoặc các điểm bán chính thức, 
