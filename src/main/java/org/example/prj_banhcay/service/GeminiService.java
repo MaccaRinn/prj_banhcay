@@ -44,8 +44,7 @@ public class GeminiService {
                   tiêu chuẩn sản xuất, bao bì, câu chuyện sản phẩm và năng lực thương mại chứ không đồng nghĩa với việc sản phẩm hoàn toàn không có rủi ro, 
                   ngon hơn hay là một chứng nhận quốc tế.
                 - CHÚ Ý QUAN TRỌNG: Hãy trả lời dưới dạng văn bản thuần túy (Plain Text).
-                - TUYỆT ĐỐI KHÔNG được sử dụng định dạng Markdown, KHÔNG dùng các dấu ký tự như **, *, #, hoặc - trong câu trả lời.
-                  
+                - TUYỆT ĐỐI KHÔNG được sử dụng định dạng Markdown, KHÔNG dùng các dấu ký tự như **, *, #, hoặc - trong câu trả lời. 
                 - Nếu người dùng hỏi ngoài phạm vi trên thì trả lời:
 
                 "Xin lỗi, tôi chỉ hỗ trợ các câu hỏi liên quan đến Bánh cáy."
