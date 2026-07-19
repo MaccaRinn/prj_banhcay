@@ -78,11 +78,7 @@ public class SecurityConfig {
         CorsConfiguration config = new CorsConfiguration();
 
         config.setAllowedOrigins(List.of(
-                "http://14.225.253.172",
-                "http://localhost:5173",
-                "http://localhost:3000",
-                "https://fe-nguvi.vercel.app",
-                "https://www.banhcaynguvi.com/"
+                "https://www.banhcaynguvi.com"
         ));
 
         config.setAllowedMethods(List.of(
